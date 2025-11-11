@@ -1,0 +1,37 @@
+{
+  "habits": [
+    {
+      "id": 1,
+      "name": "Baca Buku",
+      "targetFrequency": 1,
+      "completions": [
+        "2025-11-11T13:00:46.680Z"
+      ],
+      "createdAt": "2025-11-11T12:57:03.956Z"
+    },
+    {
+      "id": 2,
+      "name": "3",
+      "targetFrequency": null,
+      "completions": [],
+      "createdAt": "2025-11-11T12:59:46.303Z"
+    },
+    {
+      "id": 3,
+      "name": "Olahraga",
+      "targetFrequency": 5,
+      "completions": [],
+      "createdAt": "2025-11-11T13:00:08.996Z"
+    }
+  ],
+  "profile": {
+    "name": "Irsan Fadillah",
+    "joinedAt": "2025-11-11T12:56:00.174Z",
+    "stats": {
+      "totalHabits": 0,
+      "activeHabits": 0,
+      "completedHabits": 0,
+      "totalCompletions": 0
+    }
+  }
+}
